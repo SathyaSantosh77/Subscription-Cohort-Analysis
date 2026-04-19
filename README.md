@@ -79,7 +79,8 @@ The dataset is structured to support cohort-based analysis:
 
 ## 📸 Dashboard Preview
 
-![Cohort Analysis](images/dashboard.png)
+![Cohort Matrix Analysis][(https://github.com/SathyaSantosh77/Subscription-Cohort-Analysis/blob/main/CRV.png)]
+![Total Customers Decay][(https://github.com/SathyaSantosh77/Subscription-Cohort-Analysis/blob/main/Total%20Customers.png)]
 
 ---
 
